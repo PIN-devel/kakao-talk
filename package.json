@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lerna": "^6.0.1"
+  },
+  "name": "kakao-talk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Innam Park <pin954562@gmail.com>",
+  "license": "MIT"
+}
